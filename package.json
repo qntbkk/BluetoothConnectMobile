@@ -1,12 +1,11 @@
 {
-  "name": "NativeBluetooth",
+  "name": "BluetoothConnectMobile",
   "version": "1.0.0",
   "description": "A widget for interacting with bluetooth devices",
   "license": "Apache 2",
-  "author": "<You>",
+  "author": "Tony Tran",
   "private": true,
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "del": "^2.2.2",
     "gulp": "^3.9.1",
