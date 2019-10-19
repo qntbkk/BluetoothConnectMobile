@@ -4,10 +4,12 @@
         <widgetFiles>
             <widgetFile path="BluetoothConnectMobile/widgets/AllDevices/AllDevices.xml" />
             <widgetFile path="BluetoothConnectMobile/widgets/SyncDevice/SyncDevice.xml" />
+            <widgetFile path="BluetoothConnectMobile/widgets/WriteData/WriteData.xml" />
         </widgetFiles>
         <files>
             <file path="BluetoothConnectMobile/widgets/AllDevices/widget/" />
             <file path="BluetoothConnectMobile/widgets/SyncDevice/widget/" />
+            <file path="BluetoothConnectMobile/widgets/WriteData/widget/" />
         </files>
     </clientModule>
 </package>
